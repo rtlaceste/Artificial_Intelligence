@@ -1,4 +1,4 @@
-from imageai.Prediction import ImagePrediction #https://github.com/OlafenwaMoses/ImageAI
+from imageai.Prediction import ImagePrediction 
 import os
 
 execution_path = os.getcwd()
